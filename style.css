@@ -1,0 +1,44 @@
+p {
+    font-size: 100px;
+}
+
+body {
+    background-color: rgb(20, 20, 49);
+   
+}
+
+.main-header {
+  
+    color: rgb(212, 168, 45);
+    text-align: center;
+    margin: 50px;
+}
+
+.slogan {
+    color: rgb(212, 168, 45);
+    text-align: center;
+
+}
+
+.back-nav {
+    background-color: rgb(212, 168, 45);
+
+}
+
+.nav-color {
+    color: white;
+}
+
+.power-image {
+    
+    margin: 20px;
+    height: 250px;
+    width: 400px;
+}
+
+.landscape-image {
+    
+    margin: 25px;
+    height: 250px;
+    width: 400px;
+}
