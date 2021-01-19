@@ -3,19 +3,21 @@ p {
 }
 
 body {
-    background-color: rgb(20, 20, 49);
+    background-image: url("https://serenesurroundings.com/wp-content/uploads/2018/08/grass_green_nature_lawn_spring_shades_of_green_greens_closeup-810528.jpgd_.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
    
 }
 
 .main-header {
   
-    color: rgb(212, 168, 45);
+    color: white;
     text-align: center;
     margin: 50px;
 }
 
 .slogan {
-    color: rgb(212, 168, 45);
+    color: white;
     text-align: center;
 
 }
@@ -42,3 +44,5 @@ body {
     height: 250px;
     width: 400px;
 }
+
+
