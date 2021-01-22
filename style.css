@@ -19,6 +19,7 @@ body {
 .slogan {
     color: white;
     text-align: center;
+    margin: 50px;
 
 }
 
@@ -69,5 +70,10 @@ body {
     text-align: center;
     padding: 10px;
 }
+
+.btn-success {
+    margin: 15px;
+}
+
 
 
